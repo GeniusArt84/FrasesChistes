@@ -1,0 +1,7 @@
+.row {
+  place-items: center;
+  min-height: 15vh;
+}
+.card{
+  height:250px !important;
+}
